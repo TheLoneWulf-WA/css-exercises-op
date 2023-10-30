@@ -1,0 +1,19 @@
+.pclass {
+  background-color: pink;
+  font-family: sans-serif;
+}
+
+#did {
+  font-size: 36px;
+  color: blue;
+}
+
+.pclass.cooler {
+  font-size: 24px;
+}
+
+#didtwo {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
