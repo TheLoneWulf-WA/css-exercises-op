@@ -1,0 +1,15 @@
+.btna,
+.btnb {
+  font-family: sans-serif;
+  font-size: 28px;
+}
+
+.btna {
+  background-color: black;
+  color: white;
+}
+
+.btnb {
+  background-color: yellow;
+  color: black;
+}
